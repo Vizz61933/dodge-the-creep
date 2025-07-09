@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpnxe2aboq4mc"
-path="res://.godot/imported/index.apple-touch-icon.png-e44a88f826d1214d859acc561b1e1550.ctex"
+path="res://.godot/imported/index.apple-touch-icon.png-b50e4da5af58af55302c6883f5f4815b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://web build/index.apple-touch-icon.png"
-dest_files=["res://.godot/imported/index.apple-touch-icon.png-e44a88f826d1214d859acc561b1e1550.ctex"]
+source_file="res://Local folder to clone/dodge-the-creep/index.apple-touch-icon.png"
+dest_files=["res://.godot/imported/index.apple-touch-icon.png-b50e4da5af58af55302c6883f5f4815b.ctex"]
 
 [params]
 
